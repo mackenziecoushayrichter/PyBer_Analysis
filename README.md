@@ -30,4 +30,9 @@
 * This data showed me that all city types had the highest sum of total fares towards the end of Feb, then dropped the first week of March
 * However Urban cities had the most ups and downs each week in March, which Rural and Suburban cities didn't have as big of variances by week in March
 * Overall all of the city types had relatively stable total fares over the span of the months shown in the line graph
+## Summary
+* There are 3 recommendations I would make to the CEO of PyBer after completing this analysis:
+1. In Urban Cities there are more drivers than rides. I would do some analysis on how many of the driver profiles are actually active.  If there are a large number of driver profiles are inactive I would put a process in place to deactive inactive drivers.  This will increase the average fare per driver in these cities, making the compensation for drivers in Urban cities closer to that of the other city types.
+2. Rural Cities have significantly less drivers than the other city types, meaning the average fare per driver is significantly higher than the other city types.  I would recommend advertising in rural cities to try and attract more drivers.
+3. I would also recommend slightly lowering the fare prices in Rural Cities to attract more riders.  This could be easily offset by slightly increasing prices in Urban Cities.  Urban cities already have a dedicated rider pool, so I don't believe that slightly increasing the prices in these cities would deter customers from using the service.
 
